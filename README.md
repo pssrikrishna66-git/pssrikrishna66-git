@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/sri_krishna---1234">
     <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://github.com/pssrikrishna66">
+  <a href="https://github.com/pssrikrishna66-git">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/pssrikrishna66">
@@ -50,11 +50,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pssrikrishna66&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pssrikrishna66-git&theme=dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pssrisrikrishna66&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pssrisrikrishna66-git&show_icons=true&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssrikrishna66&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssrikrishna66-git&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -62,8 +62,8 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/pssrikrishna66/">
-    <img src="https://leetcard.jacoblin.cool/pssrikrishna66?theme=dark&ext=activity" />
+  <a href="https://leetcode.com/sri_krishna---1234/">
+    <img src="https://leetcard.jacoblin.cool/sri_krishna---1234?theme=dark&ext=activity" />
   </a>
 </p>
 
